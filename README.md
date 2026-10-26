@@ -4,7 +4,7 @@ Creative Academy is A fully responsive, modern web interface crafted with semant
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop View](Screenshot 1.png)
+![Desktop View](Screenshot1.png)
 
 ### Mobile View
 ![Mobile View](mobileview.png)
